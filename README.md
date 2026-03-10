@@ -1,4 +1,4 @@
 #Curso Git
 
-Eição de linhas
+Edição de linhas
 
